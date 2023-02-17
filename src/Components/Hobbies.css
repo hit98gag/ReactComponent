@@ -1,0 +1,14 @@
+
+.hobbies{
+    width: 99%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.hobbies ol li{
+    margin-left: 2.5em;
+    font-size:1rem;
+}
